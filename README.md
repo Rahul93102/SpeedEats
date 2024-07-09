@@ -1,6 +1,17 @@
 # Speeds_Eats
+<br> 
 
-Ecommerce website built with Django 2.2.3, Python 3.7.3, and AWS
+
+
+
+
+
+
+
+
+
+
+
 <img width="1440" alt="Screenshot 2024-07-10 at 3 44 56 AM" src="https://github.com/Rahul93102/SpeedEats/assets/132360698/6aeb2b1a-1eee-4089-a7a0-365faff5134b">
 
 
