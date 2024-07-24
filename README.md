@@ -84,10 +84,4 @@ python manage.py createsuperuser
 Username : rahuljha996886@gmail.com
 Password : 9968863045
 ```
-# Demo
 
-http://djangoecommerce.pythonanywhere.com
-
-# HTML Template
-
-https://colorlib.com/etc/fashe/index.html
